@@ -2,7 +2,7 @@
 This dataset contains 1.200 tweets that are related to Traveloka which are labeled into two labels: negative and positive sentiments.
 
 # Formats
-Each line consists of tweet followed by its respective label that are separated by a pipe ( | )
+The file starts with a header and each following line consists of tweet followed by its respective label that are separated by a pipe ( | )
 
 Inside the the text, we used quote (" ") to avoid column seperation.
 
